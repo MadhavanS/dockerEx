@@ -3,7 +3,7 @@
 
 deployment:
   dockerhub:
-    branch: master
+    branch: master #2
     commands:
       - $DOCKER_HUB_TRIGGER
 
